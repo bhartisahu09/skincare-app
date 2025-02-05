@@ -1,4 +1,4 @@
-# urbancultures_flutter_assignment
+# SkincareApp_flutter
 
 A new Flutter project.
 
