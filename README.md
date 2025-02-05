@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-<h3>Download Apk -></h3>
-- [skincare_app.apk](https://drive.google.com/file/d/1O_kH1swYQgPsaBsuB3UoCnaFnH43P9Ve/view?usp=sharing)
+### Download Apk  
+[Click here to download the APK](https://drive.google.com/file/d/1O_kH1swYQgPsaBsuB3UoCnaFnH43P9Ve/view?usp=sharing)
 
 ## Getting Started
 
