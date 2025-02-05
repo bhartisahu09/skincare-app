@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ### Download Apk  
-[Click here to download the APK](https://drive.google.com/file/d/1O_kH1swYQgPsaBsuB3UoCnaFnH43P9Ve/view?usp=sharing)
+[Click here to download the APK - skincare_app.apk](https://drive.google.com/file/d/1O_kH1swYQgPsaBsuB3UoCnaFnH43P9Ve/view?usp=sharing)
 
 ## Getting Started
 
